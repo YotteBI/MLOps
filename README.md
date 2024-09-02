@@ -15,7 +15,7 @@ Décrivez l'architecture globale du projet. Par exemple :
 - **Monitoring & Logging:** Méthodes de suivi des performances du modèle en production.
 
 ## Structure du Répertoire
-
+gfdf
 ```plaintext
 ├── data/                   # Données brutes et traitées
 ├── notebooks/              # Notebooks Jupyter pour l'exploration
